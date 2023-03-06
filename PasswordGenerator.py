@@ -3,7 +3,7 @@ Version: 1.0
 Made by: Matheus
 Date: 06/03/2023
 
-It's a simple program that generates a random password for the user. 
+It's a simple program that generates a random password to the user. 
 
 '''
 
